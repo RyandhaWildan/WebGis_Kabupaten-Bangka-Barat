@@ -12,11 +12,9 @@ Proyek ini menyajikan analisis perubahan tutupan vegetasi dan klasifikasi tutupa
 
 | No | Nama Anggota | NIM | Peran / Spesialisasi |
 | :-: | :--- | :-: | :--- |
-| **1** | [Nama Anggota 1] | [NIM Anggota 1] | **GIS & Remote Sensing Analyst** (GEE Scripting & Image Processing) |
-| **2** | [Nama Anggota 2] | [NIM Anggota 2] | **Machine Learning Engineer** (Random Forest Modeling & Accuracy Assessment) |
-| **3** | [Nama Anggota 3] | [NIM Anggota 3] | **WebGIS Lead Developer** (React, Leaflet, & Map UI Design) |
-| **4** | [Nama Anggota 4] | [NIM Anggota 4] | **Spatial Data Pipeline Specialist** (GeoPandas, Shapefile & COG Conversion) |
-| **5** | [Nama Anggota 5] | [NIM Anggota 5] | **Technical Writer & QA** (Documentation & Dataset Validation) |
+| **1** | **Ryandha Wildan** | 1232002008 | **WebGIS Lead Developer** (React, Leaflet, & Map UI Design / Membuat WebGIS) |
+| **2** | **Nazwa Putri Parashati** | 1232002089 | **Lead Spatial Data & Ground Truth** (GeoPandas, Shapefile & COG Conversion) |
+| **3** | **Muhammad Aghis Alfarizi** | 1232002034 | **Machine Learning Engineer** (Random Forest Modeling & Model Evaluation) |
 
 ---
 
